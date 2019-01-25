@@ -1,0 +1,9 @@
+{
+	"name":"com.lianxin.card",
+	"description":"Connection host to card",
+	"path":"NativeHost.exe",
+	"type":"stdio",
+	"allowed_origins":[
+		"chrome-extension://inchdeoioppogdkoilambdddnmpmehnb/"
+	]
+}
